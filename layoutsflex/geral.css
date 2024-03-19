@@ -1,0 +1,52 @@
+
+body {
+    background-color: blue;
+}
+
+
+.retangulo {
+    background-color: yellow;
+    width: 90%;
+    height: 30%;
+    margin-left: 90px;
+   
+}
+
+.quadrado {
+    background-color: yellow;
+    width: 15%;
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 90px;
+}
+
+.quadrado2 {
+    background-color: yellow;
+    width: 15%;
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 300px;
+}
+
+.retangulo2 {
+    background-color: yellow;
+    width: 20%;
+    height: 625px;
+    margin-top: 25px;
+    margin-left: 462px;
+}
+
+.vini{
+    display: flex;
+}
+
+
+.retangulo3 { 
+    background-color:yellow;
+    width: 46%;
+    height: 30%;
+    margin-top: -285px;
+    margin-left: 90px;
+}
+
+
